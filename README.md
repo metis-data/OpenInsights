@@ -8,7 +8,7 @@ The Protocol was created by Itay Braun, a databades expert, after spending way t
 
 Note: The vision of OpenInsight is wide and relevant to many modern technologies. However, Metis Data, the company behind OpenInsight, focuses on databases. Therefore the examples are only about databases, mainly postgres and MySQL.  
 
-##The Problem OpenInsight is trying to solve
+## The Problem OpenInsight is trying to solve
 Databases best practices are compliated. It is hard to know how to configure the server and each database, use the right table schema and build the best indexes. The developers / DevOps / SRE can read the documentation, StackOverflow posts, buy some books and try to process all the information into a clear action plan. 
 OpenInsight aims to provide an end-to-end solution for: 
 - Definition of best practices
@@ -16,11 +16,11 @@ OpenInsight aims to provide an end-to-end solution for:
 - A server to store the insights
 - Tools to run the workflows and view the results
 
-## Our Vision 
+## Our Vision: from Observability to a Proactive Solution 
 Building a platform for managing best practices, to help developers and DevOps to use proactively stop problems before they hit production. 
 We do that using predefined workflow to collect the relevant information, process it and provide explainable action plans.   
 
-## Observability - Next phase
+### OpenInsight and OpenTelemetry 
 
 
 ## Our Guidelines for building OpenInsights
